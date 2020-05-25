@@ -1,0 +1,72 @@
+body {
+    padding-top: 40px;
+}
+
+.starter-template {
+    padding: 20px 15px;
+    text-align: center;
+}
+
+table {
+    text-align: left;
+}
+
+div.thumbnail img {
+    max-height: 200px;
+}
+
+div.form-inline form {
+    display: inline;
+}
+
+div.labels {
+    position: absolute;
+}
+
+div.labels span.badge {
+    display: block;
+}
+
+span.badge.badge-success {
+    color: #fff;
+    background-color: #28a745;
+}
+
+span.badge.badge-warning {
+    color: #fff;
+    background-color: #dc3545;
+}
+
+span.badge.badge-danger {
+    color: #212529;
+    background-color: #ffc107;
+}
+
+div.filters {
+    padding-bottom: 5px;
+}
+
+div.form-inline form{
+    display:inline;
+}
+.thumbnail{
+    height: 500px;
+    position:relative;
+    background-color: #fff;
+}
+.card-form{
+    position: absolute;
+    bottom: 25px;
+    left:50%;
+    margin-left: -92px;
+}
+body{
+    background-color: #212529;
+}
+.basket-text{
+    color: #fff;
+}
+.panel{
+    width: 50%;
+    margin: 20px auto;
+}
